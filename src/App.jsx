@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
       <Router history={history}>
-      <div></div>
+      <div>Google Keep Clone</div>
       </Router>
     );
   }
